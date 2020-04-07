@@ -1,0 +1,29 @@
+Date:-07/04/2020
+
+Rom:
+• April security patch (release 33).
+• Added QS themes.
+• Fix Headsup & Less boring Headsup.
+• Added Tint QSTile icon with accent color option.
+• Added FPS Info Tile.(Device support needed)
+• Added Home button wakeup.(Device specific)
+• Added  Screen Stabiization Tile.
+• Optional screenshot type.
+• Support for Customizing the length of the navigation handle  .
+• Added haptic feedback to QS tiles.
+• Animate the keyguard when charging .
+• Switch to OPScreenrecorder.
+• Fixed Internal Audio recording.
+• Update default wallpaper.
+• Automatic Translation Import.
+• Source Improvement and Fixes.
+
+Device:
+Add Pixel power HAL
+Import powerhint for sdm660
+Update to LA.UM.8.2.r1-06300-sdm660.0
+Update powerhint for better performance
+Kang libqti-perfd blobs from Taimen QP1A.190711.020 
+kernel upstream for v4.4.218
+Update MIUI Cam
+Use Pie Version of Thermal Blobs
