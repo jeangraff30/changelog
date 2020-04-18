@@ -1,3 +1,47 @@
+Date:- 18/04/2020
+
+Device: 
+•Improve lights HAL 
+•Adapt Light Hal for commonized sdm660 tree
+•Address SELiunx denials and clean up
+•Clean up sepolicy rules 
+•Label Video prop
+•add vendor packages needed for camera hal
+•Use complete LA.UM.8.2.r1-05700-sdm660.0 SDM graphic
+•cleanup post-boot script 
+•migrate tunables from post-boot
+•Add Kernel EAS 
+•Kernel Update to 4.4.219
+•remove obsolete HMP tunables 
+•migrate Power HAL permission setup
+•cleanup init.qcom
+•setup 1GB ZRAM
+•configure schedutil 
+•add new GPU nodes
+•disable audio related hints
+•add GPU launch hints 
+•XiaomiParts: add notification LED brightness slider
+•Update blobs from LA.UM.8.2.r1-06200-sdm660.0
+•Fix fps (again)
+•kernel eas
+
+Rom:
+ • Added face unlock
+• Added long screenshot from asus.
+• Added Pulse magic visualizer.
+• Added Long swipe gesture actions.
+• Added Adaptive Playback.
+• Per app cellular data,vpn and wifi restriction support.
+• Fixed Navbar Enable/Disable toggle.
+• User Selectable VoLTE Icon.
+• Added more lockscreen charging animation  .
+• Added Less boring headsup tile.
+• Added FOD support .
+• Fixed Motorised cam/ Popup cam issues.
+• Little theming improvement.
+• Update prebuilt apps.
+• Source Improvement and Fixes.
+
 Date:-07/04/2020
 
 Rom:
