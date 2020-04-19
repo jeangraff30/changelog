@@ -26,7 +26,6 @@ Device:
 •kernel eas
 
 Rom:
- • Added face unlock
 • Added long screenshot from asus.
 • Added Pulse magic visualizer.
 • Added Long swipe gesture actions.
