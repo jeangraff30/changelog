@@ -23,7 +23,6 @@ Device:
 •XiaomiParts: add notification LED brightness slider
 •Update blobs from LA.UM.8.2.r1-06200-sdm660.0
 •Fix fps (again)
-•kernel eas
 
 Rom:
 • Added long screenshot from asus.
