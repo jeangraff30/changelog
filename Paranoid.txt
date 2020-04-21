@@ -1,1 +1,7 @@
+20/04 -
 
+• removed non-functional gestures
+• dt2w gestures working (thanks @Stylog)
+• Bt audio working
+• Use common qti telephony and Bluetooth
+• updated overlay and overlay-pa (thanks @Stylog)
