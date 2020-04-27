@@ -1,5 +1,5 @@
 26/04
-• Stay enforcing!
+• Stay enforcing!(thanks @rochadev)
 • ANX CAM
 • kernel upstream for 4.4.220
 • Use cpu Cortex-A73
