@@ -1,3 +1,16 @@
+26/04
+• Stay enforcing!
+• ANX CAM
+• kernel upstream for 4.4.220
+• Use cpu Cortex-A73
+• sepolicy: fix some denials
+• Use PA sepolicy-legacy-um (thanks @Stylog)
+• Use qti telephony common
+• Update kernel for tag 'LA.UM.8.2.r1-06500-sdm660.0'
+• Battery and performance improvements
+
+#StayParanoid
+
 20/04 -
 
 • removed non-functional gestures
