@@ -1,3 +1,19 @@
+11/05
+• fix some denials sepolicy
+• set button brightness default to 64 
+• 60 seconds as default screen timeout 
+• Move Radio for Qcom Common
+• added color modes
+• User Perf CAF and Perf qti common
+• Changes the dpi to a lower level
+• Kernel upstream for 4.4.222
+• Use qti AV common
+• Battery and performance improvements
+
+Recommended clean flash
+
+#StayParanoid
+
 26/04
 • Stay enforcing!(thanks @rochadev)
 • ANX CAM
