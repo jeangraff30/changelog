@@ -2,6 +2,7 @@
 • Upstream Kernel for 227
 • Update blobs for tag 'LA.UM.8.2.r1-06700-sdm660.0'
 • Fix SafetyNet
+• Use cam snap
 • Battery and performance improvements
 
 #StayParanoid
