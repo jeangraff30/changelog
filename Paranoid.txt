@@ -1,6 +1,6 @@
 19/06
 • Upstream Kernel for 227
-• Update blobs for tag 'LA.UM.8.2.r1-06500-sdm660.0'
+• Update blobs for tag 'LA.UM.8.2.r1-06700-sdm660.0'
 • Fix SafetyNet
 • Battery and performance improvements
 
