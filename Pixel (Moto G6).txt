@@ -1,0 +1,8 @@
+22/07
+• New MotoActions , thanks @JorgeLucas
+• Uprev qti perf to 2.0
+• Uprev Power Hal to 1.2
+• Update blobs for tag 'LA.UM.8.6.r1-04400-89xx.0'
+• Fix SafetyNet
+• Use aosp cam
+• Battery and performance improvements
