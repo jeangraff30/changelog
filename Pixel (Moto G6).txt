@@ -5,4 +5,5 @@
 • Update blobs for tag 'LA.UM.8.6.r1-04400-89xx.0'
 • Fix SafetyNet
 • Use aosp cam
+• Fixed audio volume control on calls
 • Battery and performance improvements
