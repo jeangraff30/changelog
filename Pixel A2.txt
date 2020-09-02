@@ -1,0 +1,17 @@
+
+- Fix broken sound
+- Fix broken bluetooth
+- Fix lag wallpaper
+- Update thermal blobs from jasmine V11.0.11
+- Removed thermal (configs) from xiaomi parts
+- Use google standards for statusbar
+- Correction display saturation to "255"
+- Set density display from Miui
+- Update sensor blobs from jasmine V11.0.11
+- Add new config overlay for call composer
+- Set Netflix and media property based on target
+- Update ueventd rules and init rc for new audio drivers
+- Add permissions for RCS service
+- Add IImsFactory and uceservice HAL entry
+- Update LPA interface version
+- Merge 4.4.234 into kernel.lnx.4.4.r38-rel
