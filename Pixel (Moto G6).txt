@@ -1,9 +1,21 @@
-22/07
-• New MotoActions , thanks @JorgeLucas
-• Uprev qti perf to 2.0
-• Uprev Power Hal to 1.2
-• Update blobs for tag 'LA.UM.8.6.r1-04400-89xx.0'
-• Fix SafetyNet
-• Use aosp cam
-• Fixed audio volume control on calls
-• Battery and performance improvements
+22/11 
+fix Radio FM
+fix GPS
+Fix dual sim (Mobile data too)
+Fix Wifi Display
+Fix NFC
+Fix Camera recording
+Update blobs to deen_sprout version: QPKS30.54-22-13
+Now the build is in enforcing and also in release keys
+Kernel changed to deen_sprout 3.18.124, in the future I will be giving upstream
+NFC for device that does not have, will be hidden
+Various performance and performance improvements
+
+Thank you very much to the testers
+@BrunoRolak
+@luckasoliv
+@cesar_77
+@mxramirez
+@Chris_703
+@iamraikamran
+@grazinha099
