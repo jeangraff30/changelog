@@ -5,6 +5,7 @@ Fix dual sim (Mobile data too)
 Fix Wifi Display
 Fix NFC
 Fix Camera recording
+Add Moto Audio
 Update blobs to deen_sprout version: QPKS30.54-22-13
 Now the build is in enforcing and also in release keys
 Kernel changed to deen_sprout 3.18.124, in the future I will be giving upstream
